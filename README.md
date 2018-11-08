@@ -1,1 +1,1 @@
-This is the last Bootscript sample Project.
+# This is the last Bootscript sample Project
